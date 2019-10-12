@@ -20,6 +20,7 @@ https://ak-gs.hypergryph.com:8443/account/syncData
 然后运行`reader.py`
 ### Final
 随后会生成两个文件`ArkPlaner.json`和`lolicon.txt`
+如果存在两个文件，则会提取旧的需求数据，并加入到新的数据中
 
 可以直接通过复制粘贴的方式导入到对应网站
 # 支持网站
